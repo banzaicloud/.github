@@ -1,6 +1,6 @@
 ---
 name: 🐛 Bug report
-about: Create a report to help us improve the Pipeline Platform
+about: Create a report to help us improve our platform
 
 ---
 

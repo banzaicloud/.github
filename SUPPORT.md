@@ -1,11 +1,11 @@
 # Support
 
-If you are looking for support for Banzai Cloud Pipeline, here are a few options:
+If you are looking for support, here are a few options:
 
-- [Documentation](https://beta.banzaicloud.io/docs/)
 - [Slack](https://slack.banzaicloud.io/)
+- [Documentation](https://beta.banzaicloud.io/docs/)
 
-You can also open a support ticket from within the application:
+You can also open a support ticket from within the [Pipeline Dashboard](https://beta.banzaicloud.io/):
 
 ![](support_issue.png)
 
