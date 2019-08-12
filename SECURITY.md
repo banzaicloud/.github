@@ -6,3 +6,39 @@
 
 If you have found a security issue, please send the details to security@banzaicloud.com and don't disclose it publicly until we can provide a fix for it.
 We take security reports very seriously and intend to respond in a timely manner.
+
+You can use the PGP key of the security team to encrypt your message:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBF1RcLABCAC6hLRf7LIfE+g467174Eeu91zMiN2wuUPBwO833IyDXd/ge2ll
+SRTMCfFWirlUhNvojlPlXsG0svdISPhSqFE6Uo6c1LztowHz50fLHQ+8mq9/5hCB
+5HSUlel6dZ8XBTilMubTwsjca8tDu4bREDzsf5/QHbvHmkiwZAXJC+MUDBtzqBlB
++IzXglA/v0hH4UxI18ScNKoFxp9oI3JFZZdLRoGSV978THrCDk+GirwUnYj/oNZX
+t6NqXVwk/Wwf/Xw8OrKJWDucIme6SbHcJfbluEGtppkhnqBKubT9grNs2yjfbkPh
+ewOQjhIj9OZpkAE+50r5hlE2oPQxH8jWET4tABEBAAG0NUJhbnphaSBDbG91ZCBT
+ZWN1cml0eSBUZWFtIDxzZWN1cml0eUBiYW56YWljbG91ZC5jb20+iQFUBBMBCAA+
+FiEEZ+a8qSCUaJc99igmZOnVZ+Kf6MwFAl1RcLACGwMFCRLMAwAFCwkIBwIGFQoJ
+CAsCBBYCAwECHgECF4AACgkQZOnVZ+Kf6MwCZAf+NtgGhJwATsAA/kqL8XJRfgVy
+8HkKIv1kdwI1iUy2Bw4GNXyB4fcbyuNFp9p/XXew9OSFRONYTzs25qBys8hBMvsv
+enRswR4tumyeq7xw57PouxjpWhQzME315rBdztuS8SttzXVlbOi5pHlXoEBqzqoX
+3XCuWqAaWXlAXlJTu9tGJ0WRxHZ/jdNR2eUqFOKMSL3UwwwTVpKS7ItrFU9PAsj+
+DMYGVb34NyfBxud396nzTDWCUBqBZKxv3Np9Fon3nJ9myfif8uz726qZO4oW63/q
+t7Bd7PEMDatd2RXiMTvbcHrXMwELMP8jmx7X9IBnRuW9v2LpuF+bd4mroxTG47kB
+DQRdUXCwAQgAw2+AYBSbiv/orTe3T644GRO1dwLtY7k4zEoseOuHzDWmGkxoVDfq
+Fb+9Jof4dxwlPMvCO3vU5uJSIP9rbh/vjehG+qZIRieygbzsWYQdqFoU/SwQ5YWz
+AUSE4WFYdFU3I25OAwpXIPLXHvxB5V5tBayA4WGnhK9kLhxzEnx/hwJrNMnX/GxO
+6cyIO2JLdKJlQMCLuVkoXEBJz78RuEKpBwKuZeV9W3fkPue2mz+uQhRw0AqUh5TD
+gQFHk/R69bq+1LpVnw7ZHoVe97Cdi59qD5hIY5wfMoAAn533eMLczM7Y0W+AhY5d
+bfu1I1tZR8yQudYdfBbyArgx9HeDwz+ISwARAQABiQE8BBgBCAAmFiEEZ+a8qSCU
+aJc99igmZOnVZ+Kf6MwFAl1RcLACGwwFCRLMAwAACgkQZOnVZ+Kf6Mz7Owf/Rmdl
+rBx+vHPqgBfVQEfVEEEyBxfUExkWr3GKeBTvvE1xUsnv85gpbTJc1lMZn8g/zI7w
+Cmt5WyBzfutnQqxipZofo/qfu2CJavEBRs/lDoRD1upWDFc+VPjPjc+w4zbgm6JS
+k8T6OP3IUZIH9JfcWwTQi2RF3YmG8ysYMHC3TgKtl4VxvEmSfn4DCYWv+uJyLQnd
+Y55j+A03LbX1zML5U5C6xrPM/LnxAOAJwGf5pHk8uv7atO/RFVd47KqAvkqlp3Fl
+PU9UEuZk5JZ8UMgfl8BZiTeaZPVKNRnp1zKxp59FKHMuRNMCE0RiDmqDXay23Jkk
+HNPkVO7UMSyDzMWGgw==
+=keg/
+-----END PGP PUBLIC KEY BLOCK-----
+```
