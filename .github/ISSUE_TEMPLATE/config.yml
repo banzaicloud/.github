@@ -2,12 +2,12 @@ blank_issues_enabled: false
 contact_links:
   - name: 📚 Documentation
     url: https://banzaicloud.com/docs/
-    about: Check the documentation.
+    about: Check the documentation
 
   - name: 💬 Community Slack
     url: https://slack.banzaicloud.io/
-    about: Ping us on Slack if experience any issues with our products.
+    about: Ping us on Slack if experience any issues with our products
 
   - name: ✉️ Support
     url: https://banzaicloud.com/support/
-    about: Check out additional support channels.
+    about: Check out additional support channels
