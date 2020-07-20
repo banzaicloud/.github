@@ -17,4 +17,4 @@ about: Create a report to help us improve our platform
 <!-- If applicable, add screenshots to help explain your problem. -->
 
 **Additional context**
-<!-- Add any other context about the problem like release numberm version, branch, etc. -->
+<!-- Add any other context about the problem like release version, branch, etc. -->
